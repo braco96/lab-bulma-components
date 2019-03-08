@@ -1,0 +1,17 @@
+/* Sustituto local de Bulma utilizado debido a restricciones de red.
+   En un proyecto real, este archivo no sería necesario ya que
+   se importaría directamente el paquete `bulma` desde npm. */
+
+/* Clases básicas mínimas para permitir los ejemplos del ejercicio. */
+.navbar {}
+.navbar-menu {}
+.navbar-item {}
+.buttons { display: flex; gap: 0.5rem; }
+.button {}
+.field {}
+.label { display: block; }
+.control {}
+.input {}
+.message {}
+.message-header {}
+.message-body {}
